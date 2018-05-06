@@ -1,3 +1,3 @@
 FROM httpd
-
-USER 0
+EXPOSE 80
+USER root
